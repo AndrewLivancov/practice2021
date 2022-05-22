@@ -9,7 +9,7 @@ int main()
 
     srand(time(NULL));
 
-        i = rand();
+        i = rand()
     printf("%d\n", i % 18);
         i = rand();
     printf("%d\n", i % 18);
